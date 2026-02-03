@@ -1,1 +1,1 @@
-print("Output from developer B")
+print("Feature B version")
